@@ -1,0 +1,107 @@
+{
+   "code":0,
+   "message":"OK",
+   "data":{
+      "id":16,
+      "type":"recipes_legacy",
+      "title":"",
+      "contents":[
+         {
+            "id":1012,
+            "title":"意大利奶冻",
+            "short_description":"意大利奶冻Panna cotta是一个地道的意式甜点，源自意大利西北的皮埃蒙特大区。Panna cotta的字面意思就是“煮熟的奶油\"，通常会与红色水果的浓汁果酱一起食用，也可配上熔化了的巧克力或是焦糖。",
+            "image_url":"https://static.ak2.co/xc_data/Recipe/81d59aca55df9559f3822db1de996f94.jpg",
+            "favourited":False,
+            "has_ingredient_pack":False,
+            "has_bin":False,
+            "kitchenware_type":[
+
+            ],
+            "kitchenware_recommend":[
+
+            ],
+            "chef":{
+               "id":1854,
+               "name":"洋洋",
+               "title":"甜品师",
+               "avatar_url":"https://ak-artisan-production.oss-cn-hangzhou.aliyuncs.com/users/avatar/3n4AHA3xsW.jpg",
+               "description":"擅长将年轻一代对于甜品的理解，融入到自己的作品中",
+               "favourited":False
+            }
+         },
+         {
+            "id":377,
+            "title":"茉莉花焦糖布丁",
+            "short_description":"独特的茉莉花香味，让布丁散发出不一样的气质。",
+            "image_url":"https://static.ak2.co/xc_data/Recipe/2edabeac422f1f786eb908f0720b0159.jpg",
+            "favourited":False,
+            "has_ingredient_pack":False,
+            "has_bin":False,
+            "kitchenware_type":[
+
+            ],
+            "kitchenware_recommend":[
+
+            ],
+            "chef":{
+               "id":1844,
+               "name":"Mikko",
+               "title":"甜品师",
+               "avatar_url":"https://ak-artisan-production.oss-cn-hangzhou.aliyuncs.com/users/avatar/sZsyP6Xf8x.jpg",
+               "description":"对颜色、食材搭配、口味融合等方方面面，都有着格外敏锐的感知，并能以细致、贴切的呈现在每一款甜品之中。",
+               "favourited":False
+            }
+         },
+         {
+            "id":460,
+            "title":"熔岩蛋糕",
+            "short_description":"看似已经全熟的巧克力蛋糕内部却是流动的状态,像是熔岩在流淌一般。不论是视觉感受还是入口的感觉都非常惊艳,给你带来巨大的满足感。",
+            "image_url":"https://static.ak2.co/xc_data/Recipe/ac99b09e096c1fa3c850f4f38796618d.jpg",
+            "favourited":False,
+            "has_ingredient_pack":False,
+            "has_bin":False,
+            "kitchenware_type":[
+
+            ],
+            "kitchenware_recommend":[
+
+            ],
+            "chef":{
+               "id":1854,
+               "name":"洋洋",
+               "title":"甜品师",
+               "avatar_url":"https://ak-artisan-production.oss-cn-hangzhou.aliyuncs.com/users/avatar/3n4AHA3xsW.jpg",
+               "description":"擅长将年轻一代对于甜品的理解，融入到自己的作品中",
+               "favourited":False
+            }
+         },
+         {
+            "id":462,
+            "title":"拖鞋面包",
+            "short_description":"一种带脆皮的意大利白面包，与法式长棍面包类似。",
+            "image_url":"https://static.ak2.co/recipes/Jn3dEzr8HX.jpg",
+            "favourited":False,
+            "has_ingredient_pack":False,
+            "has_bin":False,
+            "kitchenware_type":[
+
+            ],
+            "kitchenware_recommend":[
+
+            ],
+            "chef":{
+               "id":1844,
+               "name":"Mikko",
+               "title":"甜品师",
+               "avatar_url":"https://ak-artisan-production.oss-cn-hangzhou.aliyuncs.com/users/avatar/sZsyP6Xf8x.jpg",
+               "description":"对颜色、食材搭配、口味融合等方方面面，都有着格外敏锐的感知，并能以细致、贴切的呈现在每一款甜品之中。",
+               "favourited":False
+            }
+         }
+      ],
+      "more":False,
+      "total":184,
+      "current_page":19,
+      "last_page":19
+   }
+}
